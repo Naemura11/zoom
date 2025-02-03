@@ -1,0 +1,9 @@
+{
+    "Zoom_Waiting_Room_Check": false,
+    "Zoom_Require_Authenti_Check": false,
+    "Approval_Anytime_Join_Check": false,
+    "Zoom_Mute": false,
+    "Zoom_Record": false,
+    "Zoom_Record_detail": "local",
+    "Tool_Front": true
+}
